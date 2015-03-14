@@ -1,6 +1,6 @@
-# THIS PROJECT WILL BE DEPRICATED SOON: Moving to <a href='https://launchpad.net/~mdminhazulhaque/+archive/beceem-cscm'>launchpad</a> (currently in beta) #
+## THIS PROJECT WILL BE DEPRICATED SOON: Moving to <a href='https://launchpad.net/~mdminhazulhaque/+archive/beceem-cscm'>launchpad</a> (currently in beta) #
 
-# WiMAX CM GUI is an application that works with the help of Beceem's WiMAX API and provides options to work with supported devices. #
+## WiMAX CM GUI is an application that works with the help of Beceem's WiMAX API and provides options to work with supported devices. #
 
 **Features**
 
